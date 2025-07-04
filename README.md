@@ -3,11 +3,17 @@
   🚀 Software Engineer | ⚙️ DevOps Enthusiast | 💡 SEO Specialist | 🌐 Full Stack Developer  
 </p>
 
+<p align="center">
+  <a href="https://github.com/shjee-afridi">
+    <img src="https://komarev.com/ghpvc/?username=shjee-afridi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
+
 ---
 
 ### 🧰 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,mysql,mongodb,firebase,html,css,tailwind,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,php,jquery,mysql,mongodb,firebase,html,css,tailwind,docker,git,linux" />
 
 ---
 
@@ -15,7 +21,7 @@
 
 - 🎓 Software Engineering student @ **FAST NUCES**
 - 💻 Working on freelance and personal full-stack projects
-- 🌍 Interested in building scalable web apps & automation tools
+- 🌍 Passionate about scalable web apps & automation tools
 - 🚀 Exploring DevOps (CI/CD, Docker, Cloud Infra)
 - 📈 Skilled in **SEO**, **web performance**, and **ranking strategies**
 
@@ -32,7 +38,15 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shjee-afridi&theme=radical&row=1&column=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shjee-afridi&show_icons=true&theme=radical" height="165" />
@@ -54,10 +68,13 @@
 ### 📫 Contact
 
 - 💼 Email: shjeeafridi2004@gmail.com  
-- 💬 LinkedIn: https://www.linkedin.com/in/shjee-afridi-953a65210/
+- 💬 LinkedIn: [linkedin.com/in/shjee-afridi-953a65210](https://www.linkedin.com/in/shjee-afridi-953a65210/)  
+- 🛠 GitHub: [github.com/shjee-afridi](https://github.com/shjee-afridi)
 
 ---
 
 ### 🎯 Quote
 
-> *"Stay curious. Keep building. Break stuff, fix stuff, learn stuff."*  
+> *"Stay curious. Keep building. Break stuff, fix stuff, learn stuff."*
+
+---
