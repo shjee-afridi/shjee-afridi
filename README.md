@@ -54,8 +54,7 @@
 ### 📫 Contact
 
 - 💼 Email: shjeeafridi2004@gmail.com  
-- 🌐 Website: *(add if you have one)*  
-- 💬 LinkedIn: *(add if you have one)*
+- 💬 LinkedIn: https://www.linkedin.com/in/shjee-afridi-953a65210/
 
 ---
 
