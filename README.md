@@ -20,6 +20,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F70000&center=true&width=435&lines=Software+Engineer+%7C+DevOps+%7C+SEO+%7C+Full+Stack+Web+Dev" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shjee-afridi/shjee-afridi/master/github-metrics.svg" />
+</p>
+
+
 ---
 
 ## 🌐 Portfolio
