@@ -58,14 +58,6 @@
 
 ---
 
-## 🧮 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shjee-afridi/shjee-afridi/master/github-metrics.svg" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 - 🧪 **Discord Server Listing App** – SEO-optimized full-stack web app  
