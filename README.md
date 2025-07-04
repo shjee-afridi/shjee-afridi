@@ -75,15 +75,9 @@
 
 ---
 
-## 📈 GitHub Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shjee-afridi&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Snake Light](https://github.com/shjee-afridi/shjee-afridi/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/shjee-afridi/shjee-afridi/output/github-contribution-grid-snake.svg)
 
 ---
 
