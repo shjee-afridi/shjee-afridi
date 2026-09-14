@@ -24,7 +24,7 @@
 
 ## 🌐 Portfolio
 
-- 🔗 [AnimeDiscord.com](https://animediscord.com)
+- 🔗 [Animecord.com](https://www.animecord.com)
 - 🚧 [shjee.dev](https://shjee.dev) *(coming soon)*
 
 ---
