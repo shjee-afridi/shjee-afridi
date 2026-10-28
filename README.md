@@ -23,8 +23,6 @@
 ---
 
 ## 🌐 Portfolio
-
-- 🔗 [Animecord.com](https://www.animecord.com)
 - 🚧 [shjee.dev](https://shjee.dev) *(coming soon)*
 
 ---
